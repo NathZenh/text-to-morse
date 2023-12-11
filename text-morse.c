@@ -58,8 +58,7 @@ int main(void) {
 
 			uint32_t t_prev = t_now;
 			do {
-				while ((t_now = get_ms_since_start()) == t_prev)
-					;
+				while ((t_now = get_ms_since_start()) == t_prev);
 
 				set_output(PTD0, t_now & 0x1 ? high_level : low_level);
 
@@ -71,8 +70,7 @@ int main(void) {
 
 			uint32_t t_prev = t_now;
 			do {
-				while ((t_now = get_ms_since_start()) == t_prev)
-					;
+				while ((t_now = get_ms_since_start()) == t_prev);
 
 				set_output(PTD0, t_now & 0x1 ? high_level : low_level);
 
