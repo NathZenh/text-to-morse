@@ -12,7 +12,7 @@ Nach Eingabe eines Textes in das Terminal wird der Text als Morse-Code über ein
 - Verbinde deinen TinyK22 mit der Printbuchse wie im unteren Bild mit Rot angegeben ist.
   PTD0 zu BZ1.
 
-![prgc-board-pinout](https://github.com/NathZenh/text-to-morse/assets/46894591/21d11260-ebc0-4e89-9a80-b19bc551b3a1)
+![prgc-board-pinout](https://github.com/NathZenh/text-to-morse/assets/46894591/1bff0afe-9036-42cc-879f-e4ee49226187)
 
 ## Documentation
 Im Projekt enthalten sind 2 Dateien, die Programme:
